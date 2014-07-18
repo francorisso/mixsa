@@ -2,5 +2,5 @@ mixsa
 =====
 
 products add/modify/delete
-simply frontend without a card
+simply frontend without a cart
 nothing fancy
